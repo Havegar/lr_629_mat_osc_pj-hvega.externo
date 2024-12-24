@@ -1,0 +1,1 @@
+Diccionario de datos, manuales, y cualquier otro material explicativo. Tal vez bastaría solo con esta carpeta o la carpeta docs
